@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\AddressBooProblem.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\AddressBooProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\AddressBooProblem.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\AddressBooProblem.AssemblyInfo.cs
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\AddressBooProblem.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\bin\Debug\net6.0\AddressBooProblem.exe
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\bin\Debug\net6.0\AddressBooProblem.deps.json
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\bin\Debug\net6.0\AddressBooProblem.runtimeconfig.json
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\bin\Debug\net6.0\AddressBooProblem.dll
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\bin\Debug\net6.0\AddressBooProblem.pdb
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\AddressBooProblem.dll
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\refint\AddressBooProblem.dll
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\AddressBooProblem.pdb
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\AddressBooProblem.genruntimeconfig.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBooProblem\obj\Debug\net6.0\ref\AddressBooProblem.dll
