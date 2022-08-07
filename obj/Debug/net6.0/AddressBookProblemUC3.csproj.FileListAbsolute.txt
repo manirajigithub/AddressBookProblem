@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\AddressBookProblemUC3.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\AddressBookProblemUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\AddressBookProblemUC3.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\AddressBookProblemUC3.AssemblyInfo.cs
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\AddressBookProblemUC3.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\bin\Debug\net6.0\AddressBookProblemUC3.exe
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\bin\Debug\net6.0\AddressBookProblemUC3.deps.json
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\bin\Debug\net6.0\AddressBookProblemUC3.runtimeconfig.json
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\bin\Debug\net6.0\AddressBookProblemUC3.dll
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\bin\Debug\net6.0\AddressBookProblemUC3.pdb
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\AddressBookProblemUC3.dll
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\refint\AddressBookProblemUC3.dll
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\AddressBookProblemUC3.pdb
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\AddressBookProblemUC3.genruntimeconfig.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC3\obj\Debug\net6.0\ref\AddressBookProblemUC3.dll
