@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AddressBookProblemUC6;
+
 namespace AddressBookUC6
 {
     class program

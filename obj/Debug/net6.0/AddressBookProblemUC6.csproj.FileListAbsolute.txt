@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC6\obj\Debug\net6.0\AddressBookProblemUC6.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC6\obj\Debug\net6.0\AddressBookProblemUC6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC6\obj\Debug\net6.0\AddressBookProblemUC6.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC6\obj\Debug\net6.0\AddressBookProblemUC6.AssemblyInfo.cs
+C:\Users\mani1\source\repos\AddressBookProblem\AddressBookProblemUC6\obj\Debug\net6.0\AddressBookProblemUC6.csproj.CoreCompileInputs.cache
