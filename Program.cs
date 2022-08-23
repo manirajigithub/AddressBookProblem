@@ -1,11 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-using System;
-using MaintainingAddressBook;
-public class Program
+﻿using System;
+namespace AddressBookProblemUC5
 {
-    public static void Main(String[] args)
+    class program
     {
-        Console.WriteLine("********** Welcome in this Address Book ************");
-        AddressBook addressBook = new AddressBook();
-        Console.WriteLine("Please Enter the Information");
+        public static void Main(string[] args)
+        {
+            Contact person = new Contact();
+            Console.WriteLine("Enter the City Name for Searchin Person City in Dictionary ");
+            string cityName = Console.ReadLine();
+            addressBook.SearchingPersonInCity(cityName);
+        }
+    }
+}
