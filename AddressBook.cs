@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MaintainingAddressBook
+namespace AddressBookProblemUC10
 {
     public class AddressBook
     {
