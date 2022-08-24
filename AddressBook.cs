@@ -8,10 +8,13 @@ namespace AddressBookProblemUC7
 {
     public class AddressBook
     {
-        List<Contact> addressBook = new List<Contact>();
-        Dictionary<string, List<Contact>> dictionaryName = new Dictionary<string, List<Contact>>();
         public AddressBook()
         {
+
+        }
+        List<Contact> addressBook = new List<Contact>();
+        Dictionary<string, List<Contact>> dictionaryName = new Dictionary<string, List<Contact>>();
+        
            public List<Contact> persons = new List<Contact>();
         public void Book(Contact con)
         {
