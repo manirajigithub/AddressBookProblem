@@ -1,29 +1,24 @@
-﻿using AddressBookProblemUc11;
+﻿using AddressBookProblemUC11;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AddressBookProblemUC11
+namespace AddressBookProblemUc11
 {
-    internal class PersonAddress : IContact
+    internal class AddressBookSystem : IContact
     {
         List<Contact> contactList;
-        Dictionary<string, PersonAddress> addressBookDict;
+        Dictionary<string, AddressBookSystem> addressBookDict;
         Dictionary<string, List<Contact>> city_Person;
         Dictionary<string, List<Contact>> state_Person;
-        public PersonAddress()
+        public AddressBookSystem()
         {
             contactList = new List<Contact>();
-            addressBookDict = new Dictionary<string, PersonAddress>();
+            addressBookDict = new Dictionary<string, AddressBookSystem>();
             city_Person = new Dictionary<string, List<Contact>>();
             state_Person = new Dictionary<string, List<Contact>>();
-        }
-
-        internal void AddPersonAddress(string v)
-        {
-            throw new NotImplementedException();
         }
 
         // UC1 - Create Contacts in address book
@@ -70,11 +65,6 @@ namespace AddressBookProblemUC11
             {
                 Console.WriteLine(ex.Message);
             }
-        }
-
-        internal string CheckPersonAddress(string newBookName)
-        {
-            throw new NotImplementedException();
         }
 
         //View contacts of a address book
@@ -187,13 +177,13 @@ namespace AddressBookProblemUC11
             }
             else
             {
-                PersonAddress addressBook = new PersonAddress();
+                AddressBookSystem addressBook = new AddressBookSystem();
                 addressBookDict.Add(newAddressBook, addressBook);
                 Console.WriteLine("AddressBook {0} Created Successfully.", newAddressBook);
             }
         }
 
-        public void ViewAddressBook()
+        public void ViewAddressBooks()
         {
             foreach (var book in addressBookDict)
             {
