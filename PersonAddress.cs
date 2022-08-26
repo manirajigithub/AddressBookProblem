@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AddressBookProblemUc11;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AddressBookProblemUC11
 {
-    internal class PersonAddress : IContact
+    internal class PersonAddress : Contact
     {
         List<Contact> contactList;
         Dictionary<string, PersonAddress> addressBookDict;
@@ -18,6 +19,11 @@ namespace AddressBookProblemUC11
             addressBookDict = new Dictionary<string, PersonAddress>();
             city_Person = new Dictionary<string, List<Contact>>();
             state_Person = new Dictionary<string, List<Contact>>();
+        }
+
+        internal void AddPersonAddress(string v)
+        {
+            throw new NotImplementedException();
         }
 
         // UC1 - Create Contacts in address book
@@ -64,6 +70,11 @@ namespace AddressBookProblemUC11
             {
                 Console.WriteLine(ex.Message);
             }
+        }
+
+        internal string CheckPersonAddress(string newBookName)
+        {
+            throw new NotImplementedException();
         }
 
         //View contacts of a address book
@@ -176,13 +187,13 @@ namespace AddressBookProblemUC11
             }
             else
             {
-                AddressBookSystem addressBook = new AddressBookSystem();
+                PersonAddress addressBook = new PersonAddress();
                 addressBookDict.Add(newAddressBook, addressBook);
                 Console.WriteLine("AddressBook {0} Created Successfully.", newAddressBook);
             }
         }
 
-        public void ViewAddressBooks()
+        public void ViewPersonAddress()
         {
             foreach (var book in addressBookDict)
             {
@@ -191,7 +202,7 @@ namespace AddressBookProblemUC11
 
         }
 
-        public string CheckAddressBook(string adBookName)
+        public string CheckPersonAddress(string adBookName)
         {
             foreach (var book in addressBookDict)
             {

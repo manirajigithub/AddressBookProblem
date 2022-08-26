@@ -15,7 +15,7 @@ namespace AddressBookProblemUC11
             Console.WriteLine("Welcome to Address Book Program\n");
 
             PersonAddress personAddress = new PersonAddress();
-            personAddress.AddContactDetails("Default");
+            personAddress.AddPersonAddress("Default");
             personAddress.AddContactDetails("Raji", "Balusupati", "Kothali", "guntur", "Andhra", 522003, 8790653371, "raji123.dev@gmail.com", "Default");
             personAddress.AddContactDetails("Manasa", "Balu", "koti", "HyderabaD", "telegnana", 570037, 9543651869, "Rajeswari@gmail.com", "Default");
             personAddress.AddContactDetails("ganga", "Naru", "gundur", "Banglore", "Maharastra", 5220037, 912165789, "Rahu@gmail.com", "Default");
@@ -62,7 +62,7 @@ namespace AddressBookProblemUC11
                             string fName = Console.ReadLine();
                             Console.WriteLine("Enter the Last Name to Delete Contact: ");
                             string lName = Console.ReadLine();
-                            addressBook.DeleteContact(fName, lName, bookName);
+                            personAddress.DeleteContact(fName, lName, bookName);
                             break;
                         case 7:
                             personAddress.ViewAddressBooks();
