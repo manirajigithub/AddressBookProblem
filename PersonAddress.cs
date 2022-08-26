@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AddressBookProblemUC11
 {
-    internal class PersonAddress : Contact
+    internal class PersonAddress : IContact
     {
         List<Contact> contactList;
         Dictionary<string, PersonAddress> addressBookDict;
@@ -193,7 +193,7 @@ namespace AddressBookProblemUC11
             }
         }
 
-        public void ViewPersonAddress()
+        public void ViewAddressBook()
         {
             foreach (var book in addressBookDict)
             {
@@ -202,7 +202,7 @@ namespace AddressBookProblemUC11
 
         }
 
-        public string CheckPersonAddress(string adBookName)
+        public string CheckAddressBook(string adBookName)
         {
             foreach (var book in addressBookDict)
             {
