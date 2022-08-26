@@ -1,0 +1,15 @@
+AddressBook Name: Default
+ Raji Balusupati Kothali guntur Andhra 522003 8790653371 raji123.mani@gmail.com Default
+ Manasa Balu koti Hyderabad telegnana  570037 9543651869 Rajeswari@gmail Default
+ ganga Naru gundur Banglore Maharastra 5220037 912165789 Rahu@gmail.com Default
+AddressBook Name: Default
+Raji Balusupati Kothali guntur Andhra 522003 8790653371 raji123.mani@gmail.com Default
+ Manasa Balu koti Hyderabad telegnana  570037 9543651869 Rajeswari@gmail Default
+ ganga Naru gundur Banglore Maharastra 5220037 912165789 Rahu@gmail.com Default
+ Raji Balusupati Kothali guntur Andhra 522003 8790653371 raji123.mani@gmail.com Default
+ Manasa Balu koti Hyderabad telegnana  570037 9543651869 Rajeswari@gmail Default
+ ganga Naru gundur Banglore Maharastra 5220037 912165789 Rahu@gmail.com Default
+AddressBook Name: Default
+Raji Balusupati Kothali guntur Andhra 522003 8790653371 raji123.mani@gmail.com Default
+ Manasa Balu koti Hyderabad telegnana  570037 9543651869 Rajeswari@gmail Default
+ ganga Naru gundur Banglore Maharastra 5220037 912165789 Rahu@gmail.com Default
