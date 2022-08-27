@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Raji",
+    "lastName": "Balu",
+    "address": "Alla",
+    "city": "Guntur",
+    "state": "Karnataka",
+    "zipcode": 522006,
+    "phoneNumber": 9543567890,
+    "email": "raji123@gmail.com"
+  },
+  {
+    "firstName": "manasa",
+    "lastName": "Balusupati",
+    "address": "Amaravathi",
+    "city": "Hyderabad",
+    "state": "Teleganna",
+    "zipcode": 555678,
+    "phoneNumber": 8790765443,
+    "email": "Manasa@gmail.com"
+  },
+  {
+    "firstName": "Vaishu",
+    "lastName": "Naru",
+    "address": "Amaravathi",
+    "city": "Bangolre",
+    "state": "Maharatra",
+    "zipcode": 560037,
+    "phoneNumber": 8801657890,
+    "email": "Mani@gmail.com"
+  }
+]
