@@ -14,11 +14,12 @@ namespace AddressBookProblemUC14
         {
             Console.WriteLine("Welcome to Address Book Program\n");
 
+            
             AddressBookSystem addressBook = new AddressBookSystem();
             addressBook.AddAddressBook("Default");
-            addressBook.AddContactDetails("Guruprasad", "Kumbar", "Kothali", "Chikodi", "Karnataka", 591287, 9113544214, "guruprasadk.dev@gmail.com", "Default");
-            addressBook.AddContactDetails("Guru", "K", "Marathahalli", "Bangalore", "Karnataka", 560037, 9113544214, "guru@gmail.com", "Default");
-            addressBook.AddContactDetails("A", "K", "M", "Mumbai", "Maharastra", 560037, 9113544214, "guru@gmail.com", "Default");
+            addressBook.AddContactDetails("Raji", "Balusupati", "Kothali", "guntur", "Andhra", 522003, 8790653371, "raji123.dev@gmail.com", "Default");
+            addressBook.AddContactDetails("Manasa", "Balu", "koti", "HyderabaD", "telegnana", 570037, 9543651869, "Rajeswari@gmail.com", "Default");
+            addressBook.AddContactDetails("ganga", "Naru", "gundur", "Banglore", "Maharastra", 5220037, 912165789, "Rahu@gmail.com", "Default");
 
             while (true)
             {
